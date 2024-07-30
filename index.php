@@ -7,6 +7,7 @@
 //    echo"</br>";
 // }
 /* string 
+
 strlen -- string length 
 str_replace -- to replace strig charcters 
 str_ireplace -- not an case sensitive 
@@ -15,7 +16,7 @@ ucfirst -- it caotilize only first letter of string
  
 */
 $name = "vikash singh doon";
-echo "Name string has  ". strlen($name) . "  characters ";
+echo "changeing this for github  ". strlen($name) . "  characters ";
 echo "<br>";
 echo str_Ireplace("V","X" ,$name);
 echo "<br>";
